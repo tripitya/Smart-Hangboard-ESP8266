@@ -2,7 +2,7 @@
 
 A custom mechatronic hangboard system powered by an ESP8266 (NodeMCU V3), dual HX711 load cells, and WS2812B addressable LEDs. Designed for precision climbing training.
 
-![Hangboard Image](Images/your_photo_name.jpg) ## Features
+## Features
 * **Captive Portal Web Interface:** Connects offline via QR Code (No internet required).
 * **High-Precision Load Cells:** Reads real-time pulling weight (kg) to track performance.
 * **Targeted LED Coach:** Select specific holds (e.g., 20mm outer edges) and the board highlights them dynamically.
