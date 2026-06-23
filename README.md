@@ -11,7 +11,7 @@ A custom mechatronic hangboard system powered by an ESP8266 (NodeMCU V3), dual H
 
 ## Hardware Required
 * NodeMCU V3 (ESP8266)
-* 2x 50kg Half-Bridge Load Cells
+* 2/4x 50kg Half-Bridge Load Cells
 * 2x HX711 Amplifiers
 * 1x 16x2 I2C LCD Screen
 * 16x WS2812B LEDs
